@@ -1,0 +1,15 @@
+.about-container{
+    margin: 5vh 0;
+}
+
+.address-container,.team-container{
+    margin: 10vh 0;
+}
+
+.address-text{
+    margin-left: -10rem;
+    background-color: #212529;
+    z-index: 10;
+    padding: 1rem 2rem;
+    color: white !important;
+}
